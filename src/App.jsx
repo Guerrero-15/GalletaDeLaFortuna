@@ -42,7 +42,7 @@ function App() {
       <Title/>
       <RandomPhrases 
       PhrasesDatas={PhrasesDelFuturo[index]}/>
-      <button onClick={Cambio}>La fe es lo mas bonito que hay</button>
+      <button onClick={Cambio}>¿Que me diran las galletas del fturo</button>
 
     </div>
   );
